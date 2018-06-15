@@ -35,7 +35,7 @@ def downloadImage(url,filename):
 
 
 
-subs=["subredditNmae"]
+subs=["subredditName"]
 
 
 
